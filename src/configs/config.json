@@ -1,0 +1,9 @@
+{
+  "Development": {
+    "username": "app_dashboard",
+    "host": "172.24.4.220",
+    "database": "dashboard",
+    "password": "D4shb04rd",
+    "port": "5432"
+  }
+}

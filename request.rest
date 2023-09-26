@@ -1,0 +1,7 @@
+GET http://localhost:5050/login
+Content-Type: application/json
+{
+  "name": "Bob",
+  "email" : "bob@email.com",
+  "password": "bob"
+}
